@@ -1,2 +1,4 @@
 eeddiit en la rama de provessssssss
 sssss
+
+provoquem conflicte editant desde master al arxiu modificat a branca1
